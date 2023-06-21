@@ -13,6 +13,6 @@ This following list is points of recommendation that can be used based on the re
 - Medium market size which has the most number of stores with moderate age show the best performance in every promotion strategies. So it can be considered to be our target market in order to increasing overall sales of new product.
 - Store’s age affect the sales generated. Therefore, it is recommended to consider store age when designing marketing strategies. For example, because the younger stores lead to higher total sales, we could pay attention to implement this plan in store that relativily new. We also should make any innovations to  the older stores so that they had better performance.
 
-Data and Analysis Process : [Spreadsheet](AB testing uploaded.xlsx)
+Data and Analysis Process : [Spreadsheet](https://github.com/dewikinasih/AB-Testing/blob/106d3c1f1d1047ba8b978d5ee04e8792fd97adc0/AB%20testing%20uploaded.xlsx)
 
 Article (English Version) : [Medium](https://dewikinasih.medium.com/a-b-testing-for-marketing-campaign-1e1344e0610b)
